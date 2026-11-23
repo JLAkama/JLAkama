@@ -44,12 +44,12 @@
 <summary><b>💥 Armes principales — Langages</b></summary>
 <br/>
 
-![Java](https://img.shields.io/badge/Java-FF8C42?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7B2FF7?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF2E88?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF2E88?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-FF2E88?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00F0FF?style=for-the-badge&logo=postgresql&logoColor=1A0B2E)
-![HTML5](https://img.shields.io/badge/HTML5-FF8C42?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-7B2FF7?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FF2E88?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF2E88?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF2E88?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF2E88?style=for-the-badge&logo=javascript&logoColor=white)
 
 </details>
@@ -58,21 +58,19 @@
 <summary><b>🚗 Véhicules — Frameworks & outils de build</b></summary>
 <br/>
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2E88?style=for-the-badge&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-1A0B2E?style=for-the-badge&logo=flask&logoColor=00F0FF)
-![JavaFX](https://img.shields.io/badge/JavaFX-FF8C42?style=for-the-badge&logo=openjdk&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-7B2FF7?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-7B2FF7?style=for-the-badge&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-7B2FF7?style=for-the-badge&logo=flask&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-7B2FF7?style=for-the-badge&logo=openjdk&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-7B2FF7?style=for-the-badge&logo=gradle&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>📡 Gadgets — Réseau & système</b></summary>
+<summary><b>💻 Gadgets — Systèmes</b></summary>
 <br/>
 
 ![Linux](https://img.shields.io/badge/Linux-00F0FF?style=for-the-badge&logo=linux&logoColor=1A0B2E)
-![Apache](https://img.shields.io/badge/Apache-FF2E88?style=for-the-badge&logo=apache&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS_·_DHCP-7B2FF7?style=for-the-badge&logo=cloudflare&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-FF8C42?style=for-the-badge&logo=gnubash&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-00F0FF?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzFBMEIyRSIgZD0iTTAgMGgxMXYxMUgwek0xMyAwaDExdjExSDEzek0wIDEzaDExdjExSDB6TTEzIDEzaDExdjExSDEzeiIvPjwvc3ZnPg==)
 
 </details>
 
@@ -81,10 +79,10 @@
 <br/>
 
 ![Git](https://img.shields.io/badge/Git-FF8C42?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-1A0B2E?style=for-the-badge&logo=github&logoColor=FF2E88)
-![GitLab](https://img.shields.io/badge/GitLab-FF2E88?style=for-the-badge&logo=gitlab&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-7B2FF7?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-00F0FF?style=for-the-badge&logo=visualstudiocode&logoColor=1A0B2E)
+![GitHub](https://img.shields.io/badge/GitHub-FF8C42?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FF8C42?style=for-the-badge&logo=gitlab&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-FF8C42?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-FF8C42?style=for-the-badge&logo=vscodium&logoColor=white)
 
 </details>
 
@@ -99,7 +97,7 @@
 | 🎲 | **Portfolio** | Python · Flask | Mon site perso au look « bureau d'ordinateur », avec un jeu d'osselets intégré. | 🔄 `EN COURS` |
 | 🏥 | **Cabinet médical** | JavaFX · Maven · MVC | Application de gestion d'un cabinet médical (groupe 13) : vues FXML, contrôleurs, logs SLF4J. | ✅ `MISSION PASSED` |
 | 🕸️ | **Analyse d'orientations** | Java · Graphes | SAÉ 2.02 : graphe orienté pondéré des orientations entre médecins, parcours BFS, détection de sommets isolés. | ✅ `MISSION PASSED` |
-| 🌐 | **Infra réseau d'entreprise** | Linux · Apache · DNS | SAÉ 2.03 : VLSM, routage statique, DHCP, SSH par clés, DNS et virtual hosts Apache avec contrôle d'accès. | ✅ `MISSION PASSED` |
+| 🌐 | **Infra réseau d'entreprise** | Linux · Réseau | SAÉ 2.03 : VLSM, routage statique, DHCP, SSH par clés, DNS et virtual hosts Apache avec contrôle d'accès. | ✅ `MISSION PASSED` |
 
 ---
 
