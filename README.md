@@ -1,8 +1,3 @@
-<!-- ============================================================ -->
-<!--  README style "Vice City / GTA 6" — remplace JLAkama      -->
-<!--  par ton pseudo GitHub (Ctrl+H) avant de publier.           -->
-<!-- ============================================================ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7B2FF7,50:FF2E88,100:FF8C42&text=AKAMA&fontSize=90&fontColor=FFFFFF&fontAlignY=38&desc=WELCOME%20TO%20MY%20CITY&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
@@ -33,8 +28,6 @@
 │  SIDE QUEST ..... Coder mon portfolio en Flask 🎲    │
 └──────────────────────────────────────────────────────┘
 ```
-
-> *« Dans cette ville, on ne copie pas le code. On le comprend, puis on le réécrit. »*
 
 ---
 
@@ -93,11 +86,10 @@
 | | Mission | Équipement | Briefing | Statut |
 |:-:|---|---|---|:-:|
 | 🎌 | **OtakuList** | Laravel · Fortify · PHP | Appli de suivi d'œuvres en équipe. Mes tickets : pages login / register / reset password, puis `show`, `create` et `store` du CRUD des œuvres. | 🔄 `EN COURS` |
-| 👾 | **Space Invaders** | Java · Design patterns | Remake en groupe pour le module Qdev. Ma mission : patron **Composite** pour les déplacements et tirs des aliens. | 🔄 `EN COURS` |
+| 👾 | **Space Invaders** | Java · Design patterns | Remake en groupe pour le module Qdev. Ma mission : patron **Composite** pour les déplacements et tirs des aliens. | ✅ `MISSION PASSED` |
 | 🎲 | **Portfolio** | Python · Flask | Mon site perso au look « bureau d'ordinateur », avec un jeu d'osselets intégré. | 🔄 `EN COURS` |
 | 🏥 | **Cabinet médical** | JavaFX · Maven · MVC | Application de gestion d'un cabinet médical (groupe 13) : vues FXML, contrôleurs, logs SLF4J. | ✅ `MISSION PASSED` |
-| 🕸️ | **Analyse d'orientations** | Java · Graphes | SAÉ 2.02 : graphe orienté pondéré des orientations entre médecins, parcours BFS, détection de sommets isolés. | ✅ `MISSION PASSED` |
-| 🌐 | **Infra réseau d'entreprise** | Linux · Réseau | SAÉ 2.03 : VLSM, routage statique, DHCP, SSH par clés, DNS et virtual hosts Apache avec contrôle d'accès. | ✅ `MISSION PASSED` |
+| 🌀 | **Fractalens** | Java | Application qui génère et affiche des fractales. | ✅ `MISSION PASSED` |
 
 ---
 
@@ -118,18 +110,19 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Appeler-7B2FF7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/math%C3%A9o-pispisa-5a874b437)
-[![Mail](https://img.shields.io/badge/Mail-Envoyer_un_SMS-FF2E88?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TON_EMAIL)
-[![Letterboxd](https://img.shields.io/badge/Letterboxd-Cinéma-00F0FF?style=for-the-badge&logo=letterboxd&logoColor=1A0B2E)](https://letterboxd.com/JLAkama/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Voir_la_map-FF8C42?style=for-the-badge&logo=googlemaps&logoColor=white)](https://TON_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2FF7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/math%C3%A9o-pispisa-5a874b437)
+[![Mail](https://img.shields.io/badge/Mail-FF2E88?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pispisamatheo@gmail.com)
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-00F0FF?style=for-the-badge&logo=letterboxd&logoColor=1A0B2E)](https://boxd.it/frfW5)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF8C42?style=for-the-badge&logo=googlemaps&logoColor=white)](https://TON_PORTFOLIO)
 
-<br/>
+</div>
 
 ```txt
->> SAUVEGARDE EN COURS... ██████████ 100%
+>> SAUVEGARDE EN COURS... [##########] 100%
 >> MERCI DE VOTRE VISITE. À BIENTÔT EN VILLE.
 ```
 
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF8C42,50:FF2E88,100:7B2FF7&section=footer" width="100%"/>
 
 </div>
